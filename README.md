@@ -13,7 +13,6 @@
 
 ## Projeto
 
-Projeto Mates of Places
 Esse repositório tem como objetivo armazenar uma pequena aplicação para estudos, que está sendo utilizada a tecnologia React.js. 
 
 ## Tecnologias
